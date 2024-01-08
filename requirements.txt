@@ -1,0 +1,6 @@
+pip==20.2.3
+requests==2.25.1
+pydantic==1.8.2
+pytest~=5.4.1
+uvicorn==0.14.0
+fastapi==0.67.0
